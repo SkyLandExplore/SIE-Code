@@ -1,0 +1,29 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.Onest {
+    font-family: 'Onest', sans-serif;
+    font-size: 2em;
+    text-align: justify;
+}
+
+.Pixelify {
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 2.5em;
+    text-align: justify;
+}
+
+.block {
+    background-color: white;
+    color: black;
+    width: 28%;
+    padding: 1em;
+    margin: 1em auto 1em auto;
+    border-radius: 1em;
+}
+
+.c-grid {
+    display: grid;
+}
